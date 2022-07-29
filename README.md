@@ -3,13 +3,13 @@ Mini project
 
 ## Description
 
-Goal: Build a web page utilizing semantic HTML and CSS. 
+Goal: Build a web page with a contact form utilizing semantic HTML and CSS. 
 
 1. Use semantic HTML to build web page
 2. Style with external CSS file utilizing universal, element and class selectors.
 3. Structure HTML and CSS files to flow logically
 4. Ensure the web page has 3 colors in the design
-5. The web page uses two heading elements (<h1>, <h2>)
+5. The web page uses two heading elements (h1, h2)
 6. Position header to fixed
 7. Include a contact form for name and email
 8. Create a send button
@@ -20,24 +20,15 @@ Goal: Build a web page utilizing semantic HTML and CSS.
 
 ## Demo
 
+https://salissa4.github.io/Mini-Project/
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+<img src="./assets/demo.png">
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+In process
 
 ## License
 
@@ -62,15 +53,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-## Features
-
-If your project has a lot of features, list them here.
 
 ## How to Contribute
 
