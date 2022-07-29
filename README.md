@@ -22,7 +22,7 @@ Goal: Build a web page with a contact form utilizing semantic HTML and CSS.
 
 https://salissa4.github.io/Mini-Project/
 
-<img src="./assets/demo.png">
+<img src="./assets/demo.jpg">
 
 ## Credits
 
