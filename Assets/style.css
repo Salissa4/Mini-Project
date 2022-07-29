@@ -5,6 +5,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+/*element selectors*/
 body {
     position: relative;
     font-size: 18px;
@@ -94,6 +95,7 @@ button {
     margin: 2px;
 }
 
+/*class selectors*/
 .text-right {
     text-align: right;
 }
