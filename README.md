@@ -5,21 +5,21 @@ Mini project
 
 Goal: Build a web page utilizing semantic HTML and CSS. 
 
-1. Build a HTML webpage
-2. 
+1. Use semantic HTML to build web page
+2. Style with external CSS file utilizing universal, element and class selectors.
+3. Structure HTML and CSS files to flow logically
+4. Ensure the web page has 3 colors in the design
+5. The web page uses two heading elements (<h1>, <h2>)
+6. Position header to fixed
+7. Include a contact form for name and email
+8. Create a send button
+9. Insert an image with a caption and alternate attribute
+10. Adhere to accessibility standards
+11. Link Github page to navigation bar
+12. When user clicks Contact in navigation bar the page jumps to contact form
 
-## Table of Contents (Optional)
+## Demo
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 

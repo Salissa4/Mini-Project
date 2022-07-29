@@ -3,94 +3,50 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./Assets/style.css">
     <title>My Landing page</title>
 </head>
 
 <body>
     <!--Navigation bar-->
-    <header class="header">
-        <h1>COCO</h1>
+    <header>
         <nav>
             <ul>
-                <li>
-                    <a href="#search-engine-optimization">Search Engine Optimization</a>
-                </li>
-                <li>
-                    <a href="#online-reputation-management">Online Reputation Management</a>
-                </li>
-                <li>
-                    <a href="#social-media-marketing">Social Media Marketing</a>
-                </li>
+                <li><a href="https://github.com/Salissa4">Github</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
     </header>
-    <!--Main image-->
-    <img class="hero"> 
 <!--Main content of the page-->
-    <main class="content">
-         <section id="search-engine-optimization" class="main-seo">
-         <img src="./assets/images/search-engine-optimization.jpg" alt="Notebook with SEO on a desk" class="float-left" />
-            <h2>Search Engine Optimization</h2>
-            <p>
-                The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
-            </p>
-        </section>
+    <main>
+         <h1>Salissa</h1>
+            <figure>
+             <img src="./Assets/self.jpg" alt="Self Portrait">
+             <figcaption>Picture Caption Here</figcaption>
+            </figure>
 
-        <section id="online-reputation-management" class="main-seo">
-            <img src="./assets/images/online-reputation-management.jpg" alt="Laptop with a bar chart titled Reputation." class="float-right">
-            
-            <h2>Online Reputation Management</h2>
-            <p>
-                The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
-            </p>
-        </section>
-
-        <section id="social-media-marketing" class="main-seo">
-            <img src="./assets/images/social-media-marketing.jpg" alt="People at a table with social media icons" class="float-left">
-            
-            <h2>Social Media Marketing</h2>
-            <p>
-                Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
-            </p>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <form>
+               <ul>
+                   <li>
+                       <label class="text-right" for="name">Name:</label>
+                       <input type="text" id="name" name="user-name">
+                   </li>
+                   <li>
+                       <label class="text-right" for="email">Email:</label>
+                       <input type="text" id="email" name="user-email">
+                   </li>
+               </ul>
+               <div class="text-center">
+                   <button type="submit">Send</button>
+               </div>
+            </form>
         </section>
     </main>
-<!--Side Bar with tidbits on lead generator, brand awareness, and cost management-->
-    <aside class="benefits">
-        <article class="benefit-lbc">
-            <h3>Lead Generation</h3>
-            <img src="./assets/images/lead-generation.png" alt="Gear icon with down arrow to money sign.">
-            
-             <p>
-                Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
-            </p>
-        </article>
-        <article class="benefit-lbc">
-            <h3>Brand Awareness</h3>
-             <img src="./assets/images/brand-awareness.png" alt="Icon of business suit with light bulb head">
-
-            <p>
-                Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
-            </p>
-        </article>
-        <article class="benefit-lbc">
-            <h3>Cost Management</h3>
-                 <img src="./assets/images/cost-management.png" alt="Icon of gear and money sign">
-                   
-                </figure>
-            <p>
-                As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
-            </p>
-        </article>
-    </aside>
-
     <!--Footer specifying creater and company-->
-    <footer class="footer">
-        <h4>Made with ❤️️ by Horiseon</h4>
-        <p class="footer 2">
-            &copy; 2019 Horiseon Social Solution Services, Inc.
-        </p>
-    </footer>
+    <footer class="text-center"> &copy; 2022 Salissa Website </footer>
+        
 </body>
-
 </html>
