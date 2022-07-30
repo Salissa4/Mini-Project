@@ -17,7 +17,6 @@ body {
 nav {
     display: block;
     text-align: right;
-    z-index: 1;
 }
 
 ul {
@@ -71,10 +70,6 @@ form {
 a {
     text-decoration: none;
     color: #fdf8f5;
-   
-}
-
-a: {
     cursor: pointer;
 }
 
